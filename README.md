@@ -1,2 +1,1 @@
-RPG game for my portfolio \n
-Currently only SandBox scene is working properly
+# RPG game for my portfolio, currently only SandBox scene is working properly
